@@ -1,0 +1,16 @@
+name: test-ticket1
+id: ari:cloud:compass:1a5d5403-bc3f-4d77-87a7-f2a21422da03:component/acbcdb36-ef67-4966-a417-20291fc62439/12dcbc53-5e8c-4d55-823b-98e28f91d5c8
+description: null
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/Test-Compass-Rick/test-ticket1
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
